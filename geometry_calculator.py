@@ -1,5 +1,5 @@
-import geometryalt
-from geometryalt import *
+import geometry
+from geometry import *
 import os as o
 
 def setup():
